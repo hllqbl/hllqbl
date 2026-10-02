@@ -1,49 +1,63 @@
-# 💫 About Me:
-🎓 Informatics Engineering Student  
-💻 Passionate about Frontend Development & Modern Web Technologies  
-🚀 Currently building projects with React & Tailwind CSS  
-📚 Exploring UI/UX, Web Apps, and Data Analysis  
-⚡ Always learning, building, and improving every day  
+```markdown
+# Hi, I'm Hilal Tawakal 👋
+
+### Informatics Engineering Student | Full Stack Developer
+
+I'm an Informatics Engineering student interested in **Full Stack Web Development**, currently focusing on **Go backend** and **React frontend**.
 
 ---
 
-# 💻 Tech Stack:
+## 🛠️ Tech Stack
 
-### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-### 🛠 Tools & Platform
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=go,mysql,postgresql" />
+</p>
 
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=hllqbl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=hllqbl&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hllqbl&theme=tokyonight&hide_border=true&layout=compact)
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vite,npm" />
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hllqbl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+## Projects
+
+### Duitku
+Personal finance management application built with Go and React.
+
+### StockWarung
+Inventory management application built with React and Go.
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hllqbl&show_icons=true&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hllqbl&hide_border=true" height="170" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hllqbl&icon=5&color=6)](https://visitcount.itsvg.in)
+## Most Used Languages
 
-<!-- Proudly created with ❤️ -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hllqbl&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/hllqbl">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+```
